@@ -1,0 +1,8 @@
+# Python bytecode 
+*.pyc 
+*.pyo 
+__pycache__/ 
+# Jupyter Notebook checkpoints 
+.ipynb_checkpoints/ 
+# Conda environment directory 
+env/ 
